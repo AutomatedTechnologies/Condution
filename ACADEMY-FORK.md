@@ -1,7 +1,7 @@
 # Academy Fork — Provenance
 
 - **Upstream repository:** Condution — https://github.com/Shabang-Systems/Condution
-- **Original authors:** Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>; (1) assert copyright on the software, and (2) offer you this License; "Copyright" also means copyright-like laws that apply to other kinds of
+- **Original authors:** Copyright © 2021 Shabang Systems, LLC and the Condution Project Contributors.
 - **License:** GPL-3.0 (upstream license governs the code; the upstream LICENSE file is unmodified)
 - **Fork point:** 9af086419e8b45cd133d34961141a8327bb7d4ff (upstream HEAD of `beta-v1.2.0` at acquisition)
 - **Date acquired:** 2026-11-08
